@@ -1,0 +1,11 @@
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\bin\Debug\net7.0\Ejercicio3Library.deps.json
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\bin\Debug\net7.0\Ejercicio3Library.dll
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\bin\Debug\net7.0\Ejercicio3Library.pdb
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\obj\Debug\net7.0\Ejercicio3Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\obj\Debug\net7.0\Ejercicio3Library.AssemblyInfoInputs.cache
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\obj\Debug\net7.0\Ejercicio3Library.AssemblyInfo.cs
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\obj\Debug\net7.0\Ejercicio3Library.csproj.CoreCompileInputs.cache
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\obj\Debug\net7.0\Ejercicio3Library.dll
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\obj\Debug\net7.0\refint\Ejercicio3Library.dll
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\obj\Debug\net7.0\Ejercicio3Library.pdb
+C:\Users\jordi\source\repos\Ejercicio3_Demo\Ejercicio3Library\obj\Debug\net7.0\ref\Ejercicio3Library.dll

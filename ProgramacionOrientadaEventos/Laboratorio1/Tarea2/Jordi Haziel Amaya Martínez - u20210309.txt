@@ -1,0 +1,11 @@
+TAREA 2, LABORATORIO 1, Ejercicio 3
+
+    Nombre:                                   Carnet de estudiante:
+1.  Jordi Haziel Amaya Martínez.              u20210309
+
+    Enlace del repositorio:
+    https://github.com/Jordi2010/ProgramacionOrientadaEventos.git
+
+Ejercicio a Desarrollar
+Crear un programa que permita convertir de grados celsius a fahrenheit, viceversa, de kelvin a celsius, viceversa y de kelvin a fahrenheit y viceversa. Para realizar este ejercicio debe crear una biblioteca de clases, en dicha biblioteca debe crear una clase principal desde donde van a heredar las clases que se usarán para calcular las conversiones.
+Puede utilizar Tab Control o múltiples formularios para resolver el ejercicio.
